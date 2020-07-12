@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Responsivo.
 
 ## :white_check_mark: Resultado
- *Pagina Inicial*
+ *Página Inicial*
 <img width="100%" src="public/assets/ecoleta1.png">
  *Modal de pesquisa*
 <img width="100%" src="public/assets/ecoleta2.png">
