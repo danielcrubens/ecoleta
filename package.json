@@ -1,7 +1,7 @@
 {
   "name": "nlw",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "node ."
   },
   "author": "Daniel C Rubens",
   "dependencies": {
